@@ -12,8 +12,8 @@
 #include <PubSubClient.h>
 #include <Arduino.h>
 
-const char* ssid = "GAHARADANNARA_2"; // Enter your WiFi name
-const char* password =  "suksesbahagia1631"; // Enter WiFi password
+const char* ssid = "wifi_name"; // Enter your WiFi name
+const char* password =  "wifi_password"; // Enter WiFi password
 
 #define mqttServer "broker.hivemq.com"
 #define mqttPort 1883
